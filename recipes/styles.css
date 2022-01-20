@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ingredients {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.method {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
